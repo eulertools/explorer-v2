@@ -24,7 +24,7 @@
     "@emotion/styled": "^11.3.0",
     "@mui/icons-material": "^5.0.4",
     "@mui/material": "^5.0.4",
-    "axios": "^0.23.0",
+    "axios": "^0.33.0",
     "next": "^11.1.2",
     "next-connect": "^0.11.0",
     "react": "^17.0.2",
